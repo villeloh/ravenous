@@ -6,7 +6,6 @@ class BusinessList extends Component {
 
     render() {
 
-
         return (
             <div className="BusinessList">
                 {
